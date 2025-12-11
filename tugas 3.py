@@ -47,3 +47,4 @@ print(" ", dosen.teach())
 print("\n=== Data Mahasiswa ===")
 print(mahasiswa.display())
 print(" ", mahasiswa.study())university.display_all_data()
+
